@@ -3,3 +3,11 @@ Para adicionar um jogo novo é super simples: é só ir na página dele e clicar
 Agora, para carregar o jogo depois de adicionado, tem um macete rápido: vá no canto superior esquerdo onde está escrito "Steam", clique e selecione "Ficar offline". Espera uns 5 segundinhos, clica de novo lá e muda para "Ficar online".
 
 Feito isso, o jogo aparece magicamente na sua biblioteca, pronto para jogar.
+
+
+Como posso jogar online?!?!?!!
+
+Use o metodo descrito neste video feito por sixwp
+https://www.youtube.com/watch?v=xNpaaY3RFB0
+
+SITE UTILIZADO PARA BAIXAR FIXES DO JOGO ONLINE : https://online-fix.me/
