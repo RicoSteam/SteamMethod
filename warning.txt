@@ -1,0 +1,5 @@
+Para adicionar um jogo novo é super simples: é só ir na página dele e clicar no botão "Adicionar via LuaTools". Pronto, ele já entra na sua biblioteca.
+
+Agora, para carregar o jogo depois de adicionado, tem um macete rápido: vá no canto superior esquerdo onde está escrito "Steam", clique e selecione "Ficar offline". Espera uns 5 segundinhos, clica de novo lá e muda para "Ficar online".
+
+Feito isso, o jogo aparece magicamente na sua biblioteca, pronto para jogar.
